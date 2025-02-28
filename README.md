@@ -7,7 +7,6 @@
 
 # Strength
 
-## Overview
 This Password Checker project is designed to assess the strength of passwords and identify potential security risks. It includes the following features:
 
 - Check Weak/Strong Password
